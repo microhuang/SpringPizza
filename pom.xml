@@ -13,7 +13,7 @@
         <java.version>11</java.version>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <spring-boot.version>2.1.15.RELEASE</spring-boot.version>
+        <spring-boot.version>2.5.12</spring-boot.version>
         <spring-cloud.version>Greenwich</spring-cloud.version>
         <jackson.version>2.9.10</jackson.version>
         <opensaml.version>3.3.0</opensaml.version>
